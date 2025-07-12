@@ -7,7 +7,8 @@ This project is a **responsive and interactive Employee Directory Web Interface*
 
 1. **Download or clone** this repository:
    ```bash
-   git clone https://github.com/manikanta1020/AJACKUSAssignment.git
+   git clone https://github.com/srilathagorla
+   /ajackusassignment.git
    ```
 
 2. **Navigate to the project folder**:
